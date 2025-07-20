@@ -1,0 +1,10 @@
+{
+  "isWhitelist": false,
+  "list": [
+    "$craw",
+    "$cupdate",
+    "$cupdates",
+    "$cversion"
+  ],
+  "allowServerConnects": true
+}
