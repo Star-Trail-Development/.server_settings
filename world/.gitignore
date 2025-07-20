@@ -1,5 +1,6 @@
 #folders
-!backpacks
+!advancements/
+!backpacks/
 !customnpcs/
 !data/
 !DIM1/
@@ -8,8 +9,9 @@
 !entities/
 !playerdata/
 !poi/
-!11region/
+!region/
 !serverconfig/
+!stats/
 
 #files
 !.gitignore
