@@ -1,6 +1,8 @@
 /*
 
 #folders
+!world/
+world/*
 !config/
 !kubejs/
 !patchouli_books/

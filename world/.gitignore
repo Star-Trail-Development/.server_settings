@@ -1,0 +1,8 @@
+#folders
+!customnpcs/
+!DIM1/
+!DIM-1/
+
+#files
+!.gitignore
+!level.dat
