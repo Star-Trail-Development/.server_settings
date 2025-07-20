@@ -5,6 +5,8 @@
 world/*
 !config/
 !kubejs/
+!mods/
+!mods_server/
 !patchouli_books/
 
 #files

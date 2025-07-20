@@ -7315,15 +7315,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "xkdeco:recipes/building_blocks/grass_cobblestone": {
     "criteria": {
-      "has_glass": "2025-07-20 04:43:08 +0800"
+      "has_item": "2025-07-20 04:41:30 +0800"
     },
     "done": true
   },
-  "teastory:recipes/food/wooden_bowl": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "has_plank": "2025-07-20 04:45:20 +0800"
+      "crying_obsidian": "2025-07-20 04:43:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-20 04:43:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 04:43:08 +0800"
     },
     "done": true
   },
@@ -7333,34 +7345,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_carpet": {
-    "criteria": {
-      "has_purple_wool": "2025-07-20 05:00:28 +0800"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/parapets": {
-    "criteria": {
-      "has_wood": "2025-07-20 04:45:20 +0800",
-      "has_the_recipe": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:58:08 +0800"
     },
     "done": true
   },
@@ -7370,21 +7357,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_slab": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "astikorcarts:recipes/wheel": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
@@ -7394,39 +7369,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-07-20 04:57:06 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/hourglass": {
     "criteria": {
       "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-07-20 04:57:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-07-20 04:43:06 +0800"
     },
     "done": true
   },
@@ -7442,39 +7387,9 @@
     },
     "done": true
   },
-  "teastory:recipes/decorations/wooden_table": {
-    "criteria": {
-      "has_plank": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2025-07-20 04:57:06 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:58:08 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/bed_from_feather_block": {
-    "criteria": {
-      "minecraft:planks": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
@@ -7490,45 +7405,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/shutters": {
-    "criteria": {
-      "has_wood": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "minecraft:planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-07-20 04:43:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "cuisinedelight:recipes/misc/plate_from_planks_stonecutting": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:58:08 +0800"
     },
     "done": true
   },
@@ -7538,39 +7417,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_bed": {
-    "criteria": {
-      "has_purple_wool": "2025-07-20 05:00:28 +0800"
-    },
-    "done": true
-  },
-  "teastory:recipes/decorations/wooden_frame": {
-    "criteria": {
-      "has_plank": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
   "xkdeco:recipes/building_blocks/glass_tiles_from_glass_stonecutting": {
     "criteria": {
       "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/blinds": {
-    "criteria": {
-      "has_wood": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
-    "criteria": {
-      "has_item": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
@@ -7592,33 +7441,166 @@
     },
     "done": true
   },
-  "teastory:recipes/misc/wooden_barrel": {
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/decorations/item_frame_cover_from_glass_stonecutting": {
+    "criteria": {
+      "has_glass": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/mosaic_glass": {
+    "criteria": {
+      "has_wood": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-07-20 04:43:08 +0800"
+    },
+    "done": true
+  },
+  "teastory:recipes/food/wooden_bowl": {
+    "criteria": {
+      "has_plank": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "mcwwindows:recipes/parapets": {
     "criteria": {
-      "has_planks": "2025-07-20 04:58:08 +0800"
+      "has_wood": "2025-07-20 04:45:20 +0800",
+      "has_the_recipe": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
-  "create:recipes/building_blocks/spruce_window": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "has_ingredient": "2025-07-20 04:58:08 +0800"
+      "has_planks": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
+  "astikorcarts:recipes/wheel": {
     "criteria": {
-      "has_purpur_block": "2025-07-20 04:57:06 +0800"
+      "has_planks": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "mcwtrpdoors:recipes/oak/oak_blossom_trapdoor": {
     "criteria": {
-      "has_planks": "2025-07-20 04:58:08 +0800"
+      "has_plankss": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "teastory:recipes/decorations/wooden_table": {
+    "criteria": {
+      "has_plank": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "cuisinedelight:recipes/misc/plate_from_planks_stonecutting": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "teastory:recipes/decorations/wooden_frame": {
+    "criteria": {
+      "has_plank": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "xkdeco:recipes/building_blocks/varnished_planks_from_smoking": {
+    "criteria": {
+      "has_item": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "teastory:recipes/misc/wooden_barrel": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:45:20 +0800"
     },
     "done": true
   },
@@ -7634,18 +7616,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
-    "criteria": {
-      "has_purpur_block": "2025-07-20 04:57:06 +0800"
-    },
-    "done": true
-  },
   "supplementaries:recipes/clock_block": {
     "criteria": {
       "minecraft:planks": "2025-07-20 04:45:20 +0800"
@@ -7655,36 +7625,6 @@
   "teastory:recipes/misc/drink_maker": {
     "criteria": {
       "has_planks": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/decorations/item_frame_cover_from_glass_stonecutting": {
-    "criteria": {
-      "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "xkdeco:recipes/building_blocks/grass_cobblestone": {
-    "criteria": {
-      "has_item": "2025-07-20 04:41:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
-    "criteria": {
-      "has_plankss": "2025-07-20 04:58:08 +0800"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/spruce_planks": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:58:08 +0800"
     },
     "done": true
   },
@@ -7706,36 +7646,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_banner": {
-    "criteria": {
-      "has_purple_wool": "2025-07-20 05:00:28 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
-    "criteria": {
-      "has_purple_wool": "2025-07-20 05:00:28 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-07-20 04:58:08 +0800"
-    },
-    "done": true
-  },
   "teastory:recipes/decorations/wooden_chair": {
     "criteria": {
       "has_plank": "2025-07-20 04:45:20 +0800"
@@ -7754,9 +7664,99 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/mosaic_glass": {
+  "create:recipes/building_blocks/oak_window": {
     "criteria": {
-      "has_wood": "2025-07-20 04:43:08 +0800"
+      "has_ingredient": "2025-07-20 04:45:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-20 04:57:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-20 04:57:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-07-20 04:57:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-07-20 04:57:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-07-20 04:57:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-07-20 04:57:06 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/spruce/spruce_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:58:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-20 04:58:08 +0800"
     },
     "done": true
   },
@@ -7772,27 +7772,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-07-20 04:43:08 +0800"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/oak_window": {
-    "criteria": {
-      "has_ingredient": "2025-07-20 04:45:20 +0800"
-    },
-    "done": true
-  },
   "snowyspirit:recipes/decorations/sled_spruce": {
     "criteria": {
       "has_item": "2025-07-20 04:58:08 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
-    "criteria": {
-      "has_purpur_block": "2025-07-20 04:57:06 +0800"
     },
     "done": true
   },
@@ -7802,9 +7784,27 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+  "minecraft:recipes/decorations/purple_carpet": {
     "criteria": {
-      "has_glass_colorless": "2025-07-20 04:43:08 +0800"
+      "has_purple_wool": "2025-07-20 05:00:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-07-20 05:00:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-07-20 05:00:28 +0800"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/purple_sleeping_bag": {
+    "criteria": {
+      "has_purple_wool": "2025-07-20 05:00:28 +0800"
     },
     "done": true
   },
