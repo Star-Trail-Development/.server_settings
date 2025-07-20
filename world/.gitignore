@@ -1,7 +1,15 @@
 #folders
+!backpacks
 !customnpcs/
+!data/
 !DIM1/
 !DIM-1/
+!dimensions/
+!entities/
+!playerdata/
+!poi/
+!11region/
+!serverconfig/
 
 #files
 !.gitignore
